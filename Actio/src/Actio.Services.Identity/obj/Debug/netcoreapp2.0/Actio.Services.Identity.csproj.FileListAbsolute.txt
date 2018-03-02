@@ -1,0 +1,12 @@
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.deps.json
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.runtimeconfig.json
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.runtimeconfig.dev.json
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.dll
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.pdb
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Common.dll
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Common.pdb
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.csproj.CoreCompileInputs.cache
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.AssemblyInfoInputs.cache
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.AssemblyInfo.cs
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.dll
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.pdb

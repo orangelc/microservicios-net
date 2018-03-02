@@ -1,0 +1,12 @@
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.deps.json
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.runtimeconfig.json
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.runtimeconfig.dev.json
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.dll
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.pdb
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Common.dll
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Common.pdb
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.csproj.CoreCompileInputs.cache
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.AssemblyInfoInputs.cache
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.AssemblyInfo.cs
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.dll
+D:\IntegraIT\GIT\microservicios-net\Actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.pdb
